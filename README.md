@@ -1,4 +1,4 @@
-a# IntDict
+# IntDict
 based off aiolib's [multidict library](https://github.com/aio-libs/multidict) but the keys are strictly used for integers
 
 ## Why develop such a useless library?
