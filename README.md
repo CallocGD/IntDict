@@ -1,5 +1,5 @@
-# IntDict
-based off aiolib's [multidict library](https://github.com/aiolibs/multidict) but the keys are strictly used for integers
+a# IntDict
+based off aiolib's [multidict library](https://github.com/aio-libs/multidict) but the keys are strictly used for integers
 
 ## Why develop such a useless library?
 - This is going to be for something much bigger than itself but I'll give you a hint for now: gdpy is getting redone and I have [another project](https://github.com/callocgd/Robdantic) uploaded as a second concept.
